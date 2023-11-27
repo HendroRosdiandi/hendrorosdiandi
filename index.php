@@ -3,7 +3,7 @@
 <head>
     <title>Test</title>
     <body>
-        <h1> Hello Word</h1>
+        <h1> Hello B</h1>
     </body>
 </head>    
 </html>
